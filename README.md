@@ -68,10 +68,7 @@ cinnamon-dw-bi/
 └── README.md
 ```
 
-## 👥 Team — Group 13 (Batch HNDSE252F)
 
-- M. K. O. Dias — COHNDSE252F-045
-- *(add remaining members)*
 
 ## 🛠️ Tech Stack
 
