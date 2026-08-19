@@ -1,0 +1,15 @@
+# Build artifacts / large binaries
+*.pbix filter=lfs diff=lfs merge=lfs -text
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.tmp
+
+# NiFi runtime
+nifi/
+*.log
+
+# Credentials — never commit
+*credentials*
+*.env
